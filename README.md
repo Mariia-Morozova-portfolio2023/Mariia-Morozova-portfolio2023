@@ -31,7 +31,7 @@ https://github.com/Mariia-Morozova-portfolio2023/Mariia-Morozova-portfolio2023/t
 
 ## Проект 2: Моделирование изменений балансов студентов
 
-Ссылка на проект
+https://github.com/Mariia-Morozova-portfolio2023/Mariia-Morozova-portfolio2023/tree/d4af47543b3f695afee0e8d75e3afc1970a41440/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202
 
 
 
